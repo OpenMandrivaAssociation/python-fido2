@@ -15,6 +15,7 @@ BuildRequires:	python%{pyver}dist(cryptography) >= 2.6
 BuildRequires:	python%{pyver}dist(pip)
 BuildRequires:	python%{pyver}dist(poetry-core)
 BuildRequires:	python%{pyver}dist(wheel)
+BuildRequires:	python%{pyver}dist(pytest)
 Requires:	python%{pyver}dist(cryptography) >= 2.6
 
 %description
