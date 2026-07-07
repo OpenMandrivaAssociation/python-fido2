@@ -1,7 +1,7 @@
 %define module fido2
 
 Name:		python-fido2
-Version:	2.2.0
+Version:	2.2.1
 Release:	1
 Summary:	FIDO2/WebAuthn library for implementing clients and servers
 License:	BSD-2-Clause
